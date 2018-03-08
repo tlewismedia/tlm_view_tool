@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-TlewismediaViewTool::Renderer.copyright 'Tom Lewis', 'All Rights reserved'
+TlmViewTool::Renderer.copyright 'Tom Lewis', 'All Rights reserved'
 ```
 
 ## Development
