@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+TlewismediaViewTool::Renderer.copyright 'Tom Lewis', 'All Rights reserved'
+```
 
 ## Development
 
